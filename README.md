@@ -1,4 +1,4 @@
-# StudyNotion Edtech Project
+# Studynotion  Project
 
 ## 📘 Studynotion - MERN Stack Ed-Tech Platform
 
